@@ -1,5 +1,5 @@
 # Discounter API
-This project was created to embellish code-first principles. It uses .Net 5, Sqlite, and DDD. <br>
+This project was created to embellish code-first principles. It uses .Net 5, EntityFramework Sqlite, and DDD. <br>
 The database context can be used for the application and testing.
 
 # The problem
