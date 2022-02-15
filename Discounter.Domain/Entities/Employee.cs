@@ -8,6 +8,7 @@ namespace Discounter.Domain.Entities
         public long EmployeeId { get; set; }
 
         public EmployeeType EmployeeType { get; set; }
+        
         public DateTime EmploymentDate { get; set; }
     }
 }
