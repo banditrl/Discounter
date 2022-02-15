@@ -10,7 +10,8 @@ There are 4 types of employees: Permanent, Part-time, Interns and Contractors. <
 • Interns get a 5% discount but only on products with a price greater than 30.<br>
 • Contractors never get a discount.<br><br>
 
-Inside the code you will find that a strategy was used to decide what to apply.
+Inside the code you will find that a strategy was used to decide what to apply.<br>
+All scenarios have unit tests, made with xUnit.
 
 # How to use
 Insert one employee using the AddEmployee Endpoint.<br>
